@@ -161,6 +161,7 @@ However, these seem to be the most used ones:
 - ![Commercial Software][Money Icon] [Descript](https://www.descript.com) - All-in-one video and audio editor with transcription-based editing
 - ![Open-Source Software][OSS Icon] [Kdenlive](https://kdenlive.org) [![GitHub stars](https://img.shields.io/github/stars/KDE/kdenlive.svg?style=social&label=Star&maxAge=2592000)](https://github.com/KDE/kdenlive) - Free and open-source video editor
 - ![Open-Source Software][OSS Icon] [OpenShot](https://www.openshot.org) [![GitHub stars](https://img.shields.io/github/stars/OpenShot/openshot-qt.svg?style=social&label=Star&maxAge=2592000)](https://github.com/OpenShot/openshot-qt) - Award-winning free and open-source video editor
+- ![Commercial Software][Money Icon] [Animiotics](https://animiotics.com) - Browser tool for 3D animations of molecules and cells, built from real PDB structures and editable shot by shot
 
 ## Tools for taking notes
 
